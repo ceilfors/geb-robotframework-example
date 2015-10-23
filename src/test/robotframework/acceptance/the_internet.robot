@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation    Suite description
-Library   com.ceilfors.gebrobot.TheInternetForm
+Library   com.ceilfors.gebrobot.TheInternetLibrary
 
 *** Test Cases ***
 Successful login

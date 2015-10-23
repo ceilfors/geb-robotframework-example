@@ -5,7 +5,7 @@ import geb.Browser
 /**
  * @author ceilfors
  */
-class TheInternetForm {
+class TheInternetLibrary {
 
     def browser = new Browser(baseUrl: "http://the-internet.herokuapp.com/")
 
